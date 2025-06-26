@@ -1,13 +1,4 @@
-Absolutely! Here's a clean and beginner-friendly **README.md** for your GitHub repository. It:
 
-* ✅ Explains what the project does
-* ✅ Lists technologies used
-* ✅ Gives setup and usage instructions
-* ✅ Shows sample output and credits
-
----
-
-### ✅ `README.md`
 markdown
 # 🚦 Real-Time Traffic Object Detection and Tracking
 
